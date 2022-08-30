@@ -22,8 +22,8 @@ I'm an electronics, IT, ICT enthusiast and a computer polyglot 👨🏼‍💻 f
 ## 📈 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?show_icons=true&username=ErykDarnowski&theme=monokai&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats - graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErykDarnowski&theme=monokai&hide_border=true&" height="150" alt="stats - contributions" />
+  <img src="https://github-readme-stats.vercel.app/api?show_icons=true&username=ErykDarnowski&theme=monokai&hide_border=true&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErykDarnowski&theme=monokai&hide_border=true" height="150" />
 </div>
 
 ## 💻 How I work
@@ -74,7 +74,7 @@ I'm an electronics, IT, ICT enthusiast and a computer polyglot 👨🏼‍💻 f
 
 <div align="center">
   <a href="https://github.com/cschlosser/doxdocgen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ErykDarnowski&repo=return-youtube-dislike" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ErykDarnowski&theme=monokai&hide_border=true&repo=return-youtube-dislike" />
   </a>  
 </div>
 
