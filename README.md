@@ -106,9 +106,9 @@ I'm an electronics, IT, ICT enthusiast and a computer polyglot 👨🏼‍💻 f
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@erykdarnowski&theme=dark" alt="Layout with last medium posts" />
 </div>
 
-## 📞 Contact
+## 📞 Reach me
 
-- ✉ <a href="mailto:kontakt@erykdarnowski.pl">kontakt@erykdarnowski.pl</a>
+- ✉ <a href="mailto:contact@erykdarnowski.pl">contact@erykdarnowski.pl</a>
 - 👔 <a href="https://www.erykdarnowski.pl">Portfolio (not ready yet 😕)</a>
 
 <div align="center">
