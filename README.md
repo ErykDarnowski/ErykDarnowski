@@ -1,7 +1,7 @@
 # Hello! 👋🏼
 
 My name is **Eryk**,\
-I'm an electronics, IT, ICT enthusiast and a computer polyglot 👨🏼‍💻 from Poland 🇵🇱!</p>
+I'm a tech, IT, ICT enthusiast and a computer polyglot 👨🏼‍💻 from Poland 🇵🇱!</p>
 
 ## ⚡Fun facts
 
