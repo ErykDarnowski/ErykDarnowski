@@ -35,7 +35,7 @@ I'm a tech, IT, ICT enthusiast and a computer polyglot 👨🏼‍💻 from Pola
   <br />  
   <img src="https://user-images.githubusercontent.com/81530705/187747929-0bb81a9b-c71c-4546-a067-77bed7e5d26a.png" />
   <br />
-  (Gigabit Fiber connection)
+  (Gigabit fiber connection)
   <br />
   <br />
   
