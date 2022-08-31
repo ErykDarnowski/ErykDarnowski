@@ -97,7 +97,7 @@ I'm a tech, IT, ICT enthusiast and a computer polyglot 👨🏼‍💻 from Pola
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"/>
   </a>
   <br/>
-  <a href="https://wakatime.com/@ErykDarnowski"><img src="https://wakatime.com/badge/user/b1117edb-fe95-4f32-86dc-c2ec70524094.svg?style=for-the-badge" height="40"  alt="wakatime logo" /></a>
+  <a href="https://wakatime.com/@ErykDarnowski"><img src="https://wakatime.com/badge/user/b1117edb-fe95-4f32-86dc-c2ec70524094.svg?style=for-the-badge" height="37"  alt="wakatime logo" /></a>
 </div>
 
 ## 📝 Blog posts (hopefully I'll get to writing soon 😅)
