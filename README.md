@@ -122,6 +122,8 @@ that loves everything tech, IT, ICT and programming related!
 - A couple years back I was trying out Unreal Engine 4 and thing is you needed to create an Epic account in order to use it. I did that with the username `Eryk` and though nothing of it. A few years go by, Epic releases the Epic Launcher, later Fortnite and now I have over 800 friend requests on there 🤯 (presumably because of my unusual username).
 - I have the same / a really similar username on a lot of platforms 😁
 
+---
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/ErykDarnowski/count.svg?" />
 </div>
