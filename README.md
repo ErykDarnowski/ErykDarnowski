@@ -115,7 +115,7 @@ that loves everything tech, IT, ICT and programming related!
 ## 📞 Reach me
 
 - ✉ <a href="mailto:contact@erykdarnowski.pl">contact@erykdarnowski.pl</a>
-- 👔 <a href="https://www.erykdarnowski.pl">Portfolio (not ready yet 😕)</a>
+- 👔 <a href="https://www.erykdarnowski.pl">Portfolio</a>
 
 ## ⚡Fun facts
 
