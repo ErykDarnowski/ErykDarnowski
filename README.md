@@ -1,12 +1,7 @@
-# Hello! 👋🏼
+# Hi! 👋🏼
 
-My name is **Eryk**,\
-I'm a tech, IT, ICT enthusiast and a computer polyglot 👨🏼‍💻 from Poland 🇵🇱!</p>
-
-## ⚡Fun facts
-
-- A couple years back I was trying out Unreal Engine 4 and thing is you needed to create an Epic account in order to use it. I did that with the username `Eryk` and though nothing of it. A few years go by, Epic releases the Epic Launcher, later Fortnite and now I have over 800 friend requests on there 🤯 (presumably because of my unusual username).
-- I have the same / a really similar username on a lot of platforms 😁
+I'm a passionate computer polyglot 👨🏼‍💻 (junior full-stack developer) from 🇵🇱,\
+that loves everything tech, IT, ICT and programming related!
 
 ## 🛠 Working on
 
@@ -35,10 +30,8 @@ I'm a tech, IT, ICT enthusiast and a computer polyglot 👨🏼‍💻 from Pola
   <br />  
   <img src="https://user-images.githubusercontent.com/81530705/187747929-0bb81a9b-c71c-4546-a067-77bed7e5d26a.png" />
   <br />
-  (Gigabit fiber connection)
+  +
   <br />
-  <br />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="31" width="42" alt="windows8 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="31" width="42" alt="linux logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="31" width="42" alt="bash logo" />
@@ -88,6 +81,12 @@ I'm a tech, IT, ICT enthusiast and a computer polyglot 👨🏼‍💻 from Pola
   </a>  
 </div>
 
+## 📝 Blog posts (hopefully I'll get to writing soon 😅)
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@erykdarnowski&theme=dark" alt="Layout with last medium posts" />
+</div>
+
 ## 🌐 Socials
 
 <div align="center">
@@ -110,16 +109,15 @@ I'm a tech, IT, ICT enthusiast and a computer polyglot 👨🏼‍💻 from Pola
   <a href="https://wakatime.com/@ErykDarnowski"><img src="https://wakatime.com/badge/user/b1117edb-fe95-4f32-86dc-c2ec70524094.svg?style=for-the-badge" height="37"  alt="wakatime logo" /></a>
 </div>
 
-## 📝 Blog posts (hopefully I'll get to writing soon 😅)
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@erykdarnowski&theme=dark" alt="Layout with last medium posts" />
-</div>
-
 ## 📞 Reach me
 
 - ✉ <a href="mailto:contact@erykdarnowski.pl">contact@erykdarnowski.pl</a>
 - 👔 <a href="https://www.erykdarnowski.pl">Portfolio (not ready yet 😕)</a>
+
+## ⚡Fun facts
+
+- A couple years back I was trying out Unreal Engine 4 and thing is you needed to create an Epic account in order to use it. I did that with the username `Eryk` and though nothing of it. A few years go by, Epic releases the Epic Launcher, later Fortnite and now I have over 800 friend requests on there 🤯 (presumably because of my unusual username).
+- I have the same / a really similar username on a lot of platforms 😁
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ErykDarnowski/count.svg?" />
