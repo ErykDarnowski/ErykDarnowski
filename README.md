@@ -27,12 +27,12 @@ that loves everything tech, IT, ICT and programming related!
 ## 💻 How I work
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/81530705/187747904-d2bfba91-28a6-4ae5-b7a5-e76c4d75727d.png" />
-  <br />
+  <img src="./assets/winfetch.png" />
+  <br>
   +
-  <br />  
-  <img src="https://user-images.githubusercontent.com/81530705/187747929-0bb81a9b-c71c-4546-a067-77bed7e5d26a.png" />
-  <br />
+  <br>  
+  <img src="./assets/net_speed.png" />
+  <br>
   +
   <br />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="31" width="42" alt="windows8 logo" />
