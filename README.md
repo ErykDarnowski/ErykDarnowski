@@ -1,11 +1,11 @@
 # Hi! 👋🏼
 
-I'm a passionate computer polyglot 👨🏼‍💻 (at the moment mostly full-stack) from 🇵🇱,\
+I'm a passionate computer polyglot 👨🏼‍💻 (at the moment mostly full-stack) from 🇵🇱\
 that loves everything tech, IT, ICT and programming related!
 
 ## 🛠 Working on
 
-- A React Native app to make running small to medium businesses easier!
+- A React Native app that makes running small to medium businesses easier!
 - A couple *top secret* side projects 😎
 - My portfolio website
 - Writing articles
@@ -38,9 +38,7 @@ that loves everything tech, IT, ICT and programming related!
   <img src="./assets/net_speed.png" />
   <br>
   +
-  <br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="31" width="42" alt="windows8 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="31" width="42" alt="linux logo" />
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="31" width="42" alt="bash logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="31" width="42" alt="unix logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="31" width="42" alt="apple logo" />
@@ -81,7 +79,7 @@ that loves everything tech, IT, ICT and programming related!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="31" width="42" alt="mysql logo" />
 </div>
 
-## 🐱‍🏍 Proud contributor
+## 👷🏻‍♂️ Proud contributor
 
 <div align="center">
   <a href="https://github.com/cschlosser/doxdocgen">
@@ -113,7 +111,7 @@ that loves everything tech, IT, ICT and programming related!
   <a href="https://medium.com/@erykdarnowski">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"/>
   </a>
-  <br/>
+  <br>
   <a href="https://wakatime.com/@ErykDarnowski"><img src="https://wakatime.com/badge/user/b1117edb-fe95-4f32-86dc-c2ec70524094.svg?style=for-the-badge" height="37"  alt="wakatime logo" /></a>
 </div>
 
