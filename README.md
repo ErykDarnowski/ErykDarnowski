@@ -29,6 +29,10 @@ that loves everything tech, IT, ICT and programming related!
 <div align="center">
   <img src="./assets/winfetch.png" />
   <br>
+  /
+  <br>  
+	<img src="./assets/neofetch.png" />
+  <br>
   +
   <br>  
   <img src="./assets/net_speed.png" />
