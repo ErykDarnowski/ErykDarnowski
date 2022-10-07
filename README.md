@@ -82,7 +82,7 @@ that loves everything tech, IT, ICT and programming related!
 ## 👷🏻‍♂️ Proud contributor
 
 <div align="center">
-  <a href="https://github.com/cschlosser/doxdocgen">
+  <a href="https://github.com/Anarios/return-youtube-dislike">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ErykDarnowski&theme=monokai&hide_border=true&repo=return-youtube-dislike" />
   </a>  
 </div>
