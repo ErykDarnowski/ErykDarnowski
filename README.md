@@ -31,7 +31,7 @@ that loves everything tech, IT, ICT and programming related!
   <br>
   /
   <br>  
-	<img src="./assets/neofetch.png" />
+  <img src="./assets/neofetch.png" />
   <br>
   +
   <br>  
@@ -84,7 +84,10 @@ that loves everything tech, IT, ICT and programming related!
 <div align="center">
   <a href="https://github.com/Anarios/return-youtube-dislike">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ErykDarnowski&theme=monokai&hide_border=true&repo=return-youtube-dislike" />
-  </a>  
+  </a>
+  <a href="https://github.com/thebergamo/react-native-fbsdk-next">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ErykDarnowski&theme=monokai&hide_border=true&repo=react-native-fbsdk-next" />
+  </a>
 </div>
 
 ## 📝 Blog posts (hopefully I'll get to writing soon 😅)
