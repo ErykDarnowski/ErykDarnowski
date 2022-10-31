@@ -90,12 +90,14 @@ that loves everything tech, IT, ICT and programming related!
   </a>
 </div>
 
+<!--
 ## 📝 Blog posts (hopefully I'll get to writing soon 😅)
 
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@erykdarnowski&theme=dark" alt="Layout with last medium posts" />
 </div>
 
+-->
 ## 🌐 Socials
 
 <div align="center">
