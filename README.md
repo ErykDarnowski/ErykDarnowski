@@ -128,7 +128,7 @@ that loves everything tech, IT, ICT and programming related!
 ## ⚡Fun facts
 
 - I use VIM 😱
-- My current speed typing record is ~`105`WPM / ~`526`CPM (on QWERTY ; monkeytype)
+- My current speed typing record is ~`111`WPM / ~`554`CPM (on QWERTY ; monkeytype)
 <!--
 - A couple years back I was trying out Unreal Engine 4 and thing is you needed to create an Epic account in order to use it. I did that with the username `Eryk` and though nothing of it. A few years go by, Epic releases the Epic Launcher, later Fortnite and now I have over 800 friend requests on there 🤯 (presumably because of my unusual username). 😅
 -->
