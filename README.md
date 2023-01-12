@@ -130,7 +130,7 @@ that loves everything tech, IT, ICT and programming related!
 - I use Nvim 😱
 - I know a bit of regex 🤖
 - I know how to solve a few Rubik's cubes (2x2 and 3x3) 🧊
-- My current speed typing record is ~`126`WPM / ~`628`CPM (QWERTY + monkeytype) ⌨️
+- My current speed typing record is ~`128`WPM / ~`642`CPM (QWERTY + monkeytype - english) ⌨️
 <!--
 - A couple years back I was trying out Unreal Engine 4 and thing is you needed to create an Epic account in order to use it. I did that with the username `Eryk` and though nothing of it. A few years go by, Epic releases the Epic Launcher, later Fortnite and now I have over 800 friend requests on there 🤯 (presumably because of my unusual username). 😅
 -->
