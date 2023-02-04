@@ -8,8 +8,8 @@ that loves everything tech, IT, ICT and programming related!
 - A React Native app that makes running small to medium businesses easier!
 - A couple *top secret* side projects 😎
 - My portfolio website
+- Learning Korean 🇰🇷
 - Writing articles
-- Learning Korean
 
 ## 📚 Learning
 
