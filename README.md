@@ -9,7 +9,7 @@ that loves everything tech, IT, ICT and programming related!
 - A couple *top secret* side projects 😎
 - My portfolio website
 - Writing articles
-- **Getting a job 😅**
+- Learning Korean
 
 ## 📚 Learning
 
