@@ -5,7 +5,6 @@ that loves everything tech, IT, ICT and programming related!
 
 ## 🛠 Working on
 
-- A React Native app that makes running small to medium businesses easier!
 - A couple *top secret* side projects 😎
 - My portfolio website
 - Writing articles
