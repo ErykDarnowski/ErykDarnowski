@@ -128,9 +128,8 @@ that loves everything tech, IT, ICT and programming related!
 
 - I use Neovim 😱
 - I use Arch btw 🐧
-- I know a bit of regex 🤖
-- I know how to solve a few Rubik's cubes (2x2 and 3x3) 🧊
-- My speed typing PB (peak) is ~`188`WPM / ~`940`CPM (QWERTY on [monkeytype](https://monkeytype.com/) in English) ⌨️
+- I know how to solve a few Rubik's cubes (2x2 ; 3x3 and 4x4) 🧊
+- [My speed typing PB (peak) is ~`188`WPM / ~`940`CPM (QWERTY on monkeytype in English) ⌨️](https://monkeytype.com/profile/JS_Programmer)
 <!--
 - A couple years back I was trying out Unreal Engine 4 and thing is you needed to create an Epic account in order to use it. I did that with the username `Eryk` and though nothing of it. A few years go by, Epic releases the Epic Launcher, later Fortnite and now I have over 800 friend requests on there 🤯 (presumably because of my unusual username). 😅
 -->
