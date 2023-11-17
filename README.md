@@ -128,6 +128,7 @@ that loves everything tech, IT, ICT and programming related!
 
 - I use Neovim 😱
 - I use Arch btw 🐧
+- I collect retro video game controllers / hardware 🎮
 - I know how to solve a few Rubik's cubes (2x2 ; 3x3 and 4x4) 🧊
 - [My speed typing PB (peak) is ~`193`WPM / ~`965`CPM (QWERTY on monkeytype in English) ⌨️](https://monkeytype.com/profile/JS_Programmer)
 <!--
