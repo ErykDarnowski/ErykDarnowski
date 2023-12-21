@@ -129,8 +129,8 @@ that loves everything tech, IT, ICT and programming related!
 - I use Neovim 😱
 - I use Arch btw 🐧
 - I collect retro video game controllers / hardware 🎮
+- [My speed typing personal best is ~`193`WPM / ~`965`CPM ⌨️](https://typingstats.com/profile/294040439810560000)
 - I know how to solve a few Rubik's cubes (2x2 ; 3x3 and 4x4) 🧊
-- [My speed typing PB (peak) is ~`193`WPM / ~`965`CPM (QWERTY on monkeytype in English) ⌨️](https://typingstats.com/profile/294040439810560000)
 <!--
 - A couple years back I was trying out Unreal Engine 4 and thing is you needed to create an Epic account in order to use it. I did that with the username `Eryk` and though nothing of it. A few years go by, Epic releases the Epic Launcher, later Fortnite and now I have over 800 friend requests on there 🤯 (presumably because of my unusual username). 😅
 -->
