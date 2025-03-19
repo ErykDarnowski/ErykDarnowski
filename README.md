@@ -115,8 +115,6 @@ that loves everything tech, IT, ICT and programming related!
   <a href="https://medium.com/@erykdarnowski">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"/>
   </a>
-  <br>
-  <a href="https://wakatime.com/@ErykDarnowski"><img src="https://wakatime.com/badge/user/b1117edb-fe95-4f32-86dc-c2ec70524094.svg?style=for-the-badge" height="37"  alt="wakatime logo" /></a>
 </div>
 
 ## 📞 Reach me
@@ -128,9 +126,10 @@ that loves everything tech, IT, ICT and programming related!
 
 - I use Neovim 😱
 - I use Arch btw 🐧
+- I absolutely love anything VR related 🥽
 - I collect retro video game controllers / hardware 🎮
 - [My speed typing personal best is ~`193`WPM / ~`965`CPM ⌨️](https://typingstats.com/profile/294040439810560000)
-- I know how to solve a few Rubik's cubes (2x2 ; 3x3 and 4x4) 🧊
+- I know how to solve a few Rubik's cubes (2x2 ; 3x3 ; 4x4 and 5x5) 🧊
 <!--
 - A couple years back I was trying out Unreal Engine 4 and thing is you needed to create an Epic account in order to use it. I did that with the username `Eryk` and though nothing of it. A few years go by, Epic releases the Epic Launcher, later Fortnite and now I have over 800 friend requests on there 🤯 (presumably because of my unusual username). 😅
 -->
