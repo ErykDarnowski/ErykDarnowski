@@ -1,6 +1,6 @@
 # Hi! 👋🏼
 
-I'm a passionate computer polyglot 👨🏼‍💻 (at the moment mostly full-stack) from 🇵🇱\
+I'm a passionate computer polyglot 👨🏼‍💻 (at the moment mostly full-stack) from 🇵🇱🇪🇺\
 that loves everything tech, IT, ICT and programming related!
 
 ## 🛠 Working on
