@@ -19,7 +19,6 @@ that loves everything tech, IT, ICT and programming related!
 ## 📈 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?show_icons=true&username=ErykDarnowski&theme=monokai&hide_border=true&include_all_commits=true&count_private=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErykDarnowski&theme=monokai&hide_border=true" height="150" />
 </div>
 
