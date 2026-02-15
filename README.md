@@ -26,11 +26,11 @@ that loves everything tech, IT, ICT and programming related!
 ## 💻 How I work
 
 <div align="center">
-  <img src="./assets/neofetches/pc.png" />
+  <img src="./assets/neofetches/pc-2.png" />
   <br>
   /
   <br>  
-  <img src="./assets/neofetches/lap.png" width="445" />
+  <img src="./assets/neofetches/lap-1.png" width="445" />
   <br>
   +
   <br>  
