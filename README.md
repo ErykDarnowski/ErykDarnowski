@@ -1,26 +1,32 @@
-# Hi! 👋🏼
+# Hi, I'm Eryk! 👋🏼
 
-I'm a passionate computer polyglot 👨🏼‍💻 (at the moment mostly full-stack) from 🇵🇱🇪🇺\
-that loves everything tech, IT, ICT and programming related!
+I'm a **computer polyglot** 👨🏼‍💻 from Łódź 🇵🇱🇪🇺, currently in my third year of Computer Science at [ANSB](https://www.ansb.pl/).\
+I tinker with everything under the tech umbrella: **game dev, VR, 3D modeling & printing, electronics, networking, hacking**, and plenty of software.
 
 ## 🛠 Working on
 
-- A couple *top secret* side projects 😎
-- My portfolio website
-- Writing articles
+- 🥽 A **DIY low-cost VR finger tracking** solution (my final University project)
+- 🎮 Post-launch work on **[Demersus][demersus]**
+- ✍️ My [tech blog](https://www.erykdarnowski.pl/), plus [devlogs](https://www.erykdarnowski.pl/series/demersus-devlogs/)
+- 📹 An upcoming [engineering YouTube channel](https://www.erykdarnowski.pl/sm?yt)
 
-<!--
-## 📚 Learning
-
-- Docker 🐳
-- Vue
--->
-
-## 📈 Stats
+## 🏆 Highlights
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErykDarnowski&theme=monokai&hide_border=true" height="150" />
+  <a href="https://store.steampowered.com/app/5224380/Demersus/">
+    <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5224380/52a49b05b4365c427e83fb75c5f643eab5e2455e/header.jpg" width="460" alt="Demersus on Steam" />
+  </a>
 </div>
+
+- 🎮 **[Demersus][demersus]**: a first-person atmospheric walking sim about alcohol addiction, made by two people (me and [Jakub](https://jakubklimczak.pl/))
+  - 🥇 **Best Game Audio** at **ZTGK 2026**, plus a nomination for **SGF 2026** (Student Games Festival)
+  - 📈 Self-published and free on [Steam][demersus] / [itch.io][itch]: **8k+ library adds, 93% positive reviews, 150k impressions**
+- 🖨️ **[MakerWorld](https://www.erykdarnowski.pl/sm?mw)** 3D models with **3.1M+ impressions, 100k views, 1.7k prints**
+- 🧩 Contributor to **[Return YouTube Dislike](https://github.com/Anarios/return-youtube-dislike)**, which has 5M+ users
+- 🎓 Academic scholarships throughout Technical School and University
+- 🚁 EU-certified drone pilot (A1 / A3)
+
+<sub>*Stats as of 30/10/2026*</sub>
 
 ## 💻 How I work
 
@@ -28,114 +34,94 @@ that loves everything tech, IT, ICT and programming related!
   <img src="./assets/neofetches/pc-2.png" />
   <br>
   /
-  <br>  
+  <br>
   <img src="./assets/neofetches/lap-1.png" width="445" />
   <br>
   +
-  <br>  
+  <br>
   <img src="./assets/net_speed.png" />
   <br>
   +
   <br>
+  <!-- Systems & tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="31" width="42" alt="linux logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="31" width="42" alt="bash logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="31" width="42" alt="unix logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="31" width="42" alt="apple logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="31" width="42" alt="android logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="31" width="42" alt="vim logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="31" width="42" alt="neovim logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="31" width="42" alt="vscode logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="31" width="42" alt="figma logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="31" width="42" alt="illustrator logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="31" width="42" alt="photoshop logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="31" width="42" alt="aftereffects logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="31" width="42" alt="premierepro logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="31" width="42" alt="filezilla logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="31" width="42" alt="ssh logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="31" width="42" alt="git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="31" width="42" alt="github logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="31" width="42" alt="markdown logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="31" width="42" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="31" width="42" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="31" width="42" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="31" width="42" alt="typescript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="31" width="42" alt="nodejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="31" width="42" alt="npm logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="31" width="42" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="31" width="42" alt="redux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="31" width="42" alt="jquery logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="31" width="42" alt="babel logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="31" width="42" alt="webpack logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="31" width="42" alt="docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="31" width="42" alt="apache logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="31" width="42" alt="nginx logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="31" width="42" alt="apache logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="31" width="42" alt="ssh logo" />
+  <br>
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="31" width="42" alt="c logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="31" width="42" alt="cplusplus logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="31" width="42" alt="csharp logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="31" width="42" alt="java logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="31" width="42" alt="kotlin logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="31" width="42" alt="php logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="31" width="42" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="31" width="42" alt="swift logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="31" width="42" alt="mongodb logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="31" width="42" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="31" width="42" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="31" width="42" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="31" width="42" alt="php logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="31" width="42" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="31" width="42" alt="css3 logo" />
+  <br>
+  <!-- Web, data, game dev & design -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="31" width="42" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="31" width="42" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="31" width="42" alt="redux logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="31" width="42" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="31" width="42" alt="mongodb logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="31" width="42" alt="unity logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="31" width="42" alt="blender logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="31" width="42" alt="arduino logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="31" width="42" alt="figma logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="31" width="42" alt="photoshop logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="31" width="42" alt="premierepro logo" />
 </div>
 
-## 👷🏻‍♂️ Proud contributor
+## 🌐 Find me
 
 <div align="center">
-  <a href="https://github.com/Anarios/return-youtube-dislike">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ErykDarnowski&theme=monokai&hide_border=true&repo=return-youtube-dislike" />
+  <a href="https://www.erykdarnowski.pl/">
+    <img src="https://img.shields.io/static/v1?message=Website%20%2F%20Blog&logo=hugo&label=&color=FF4088&logoColor=white&style=for-the-badge" height="40" alt="website" />
   </a>
-  <a href="https://github.com/thebergamo/react-native-fbsdk-next">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ErykDarnowski&theme=monokai&hide_border=true&repo=react-native-fbsdk-next" />
-  </a>
-</div>
-
-<!--
-## 📝 Blog posts (hopefully I'll get to writing soon 😅)
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@erykdarnowski&theme=dark" alt="Layout with last medium posts" />
-</div>
-
--->
-## 🌐 Socials
-
-<div align="center">
-  <a href="https://www.facebook.com/eryk.darnowski/">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo" />
+  <a href="https://store.steampowered.com/app/5224380/Demersus/">
+    <img src="https://img.shields.io/static/v1?message=Demersus&logo=steam&label=&color=171A21&logoColor=white&style=for-the-badge" height="40" alt="steam logo" />
   </a>
   <a href="https://www.instagram.com/erykdarnowski/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo" />
-  </a>
-  <a href="https://twitter.com/erykdarnowski">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="40" alt="instagram logo" />
   </a>
   <a href="https://www.linkedin.com/in/eryk-darnowski-12981a228/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://medium.com/@erykdarnowski">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"/>
+  <a href="https://x.com/erykdarnowski">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="40" alt="x logo" />
   </a>
 </div>
 
-## 📞 Reach me
-
-- ✉ <a href="mailto:contact@erykdarnowski.pl">contact@erykdarnowski.pl</a>
-- 👔 <a href="https://www.erykdarnowski.pl">Portfolio</a>
-
-## ⚡Fun facts
+## ⚡ Fun facts
 
 - I use Neovim 😱
-- I use Arch btw 🐧
-- I absolutely love anything VR related 🥽
+- I'm into VR: a SteamVR full-body tracking setup, plus a Quest 3 I've modded with DIY face tracking 🥽
 - I collect retro video game controllers / hardware 🎮
 - [My speed typing personal best is ~`193`WPM / ~`965`CPM ⌨️](https://typingstats.com/profile/294040439810560000)
-- I know how to solve a few Rubik's cubes (2x2 ; 3x3 ; 4x4 and 5x5) 🧊
-<!--
-- A couple years back I was trying out Unreal Engine 4 and thing is you needed to create an Epic account in order to use it. I did that with the username `Eryk` and though nothing of it. A few years go by, Epic releases the Epic Launcher, later Fortnite and now I have over 800 friend requests on there 🤯 (presumably because of my unusual username). 😅
--->
+- I can solve a few Rubik's cubes (2x2, 3x3, 4x4 and 5x5) 🧊
+- My take on Andrew Price's Blender donut is [part of the *17,731 First Steps* collection](https://andrewprice.art/17731-first-steps/donut/6087) 🍩
 
----
+## 📈 Stats
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ErykDarnowski/count.svg?" />
+  <img src="https://streak-stats.demolab.com/?user=ErykDarnowski&theme=monokai&hide_border=true" height="150" alt="GitHub streak stats" />
+  <br>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=ErykDarnowski&style=flat-square&color=a6e22e" alt="profile views" />
 </div>
 
+[demersus]: https://store.steampowered.com/app/5224380/Demersus/
+[itch]: https://darklim-studios.itch.io/demersus
