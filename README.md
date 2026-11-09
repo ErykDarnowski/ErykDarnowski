@@ -20,13 +20,13 @@ I tinker with everything under the tech umbrella: **game dev, VR, 3D modeling & 
 
 - 🎮 **[Demersus][demersus]**: a first-person atmospheric walking sim about alcohol addiction, made by two people (me and [Jakub](https://jakubklimczak.pl/))
   - 🥇 **Best Game Audio** at **ZTGK 2026**, plus a nomination for **SGF 2026** (Student Games Festival)
-  - 📈 Self-published and free on [Steam][demersus] / [itch.io][itch]: **8k+ library adds, 93% positive reviews, 150k impressions**
-- 🖨️ **[MakerWorld](https://www.erykdarnowski.pl/sm?mw)** 3D models with **3.1M+ impressions, 100k views, 1.7k prints**
+  - 📈 Self-published and free on [Steam][demersus] / [itch.io][itch]: **10k+ library adds, 94% positive reviews, 200k impressions**
+- 🖨️ **[MakerWorld](https://www.erykdarnowski.pl/sm?mw)** 3D models with **3.2M+ impressions, 104k views, 1.8k prints**
 - 🧩 Contributor to **[Return YouTube Dislike](https://github.com/Anarios/return-youtube-dislike)**, which has 5M+ users
 - 🎓 Academic scholarships throughout Technical School and University
 - 🚁 EU-certified drone pilot (A1 / A3)
 
-<sub>*Stats as of 30/10/2026*</sub>
+<sub>*Stats as of 09/11/2026*</sub>
 
 ## 💻 How I work
 
