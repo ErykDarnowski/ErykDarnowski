@@ -1,6 +1,6 @@
 # Hi, I'm Eryk! 👋🏼
 
-I'm a **computer polyglot** 👨🏼‍💻 from Łódź 🇵🇱🇪🇺, currently in my third year of Computer Science at [ANSB](https://www.ansb.pl/).\
+I'm a **computer polyglot** 👨🏼‍💻 from Łódź 🇵🇱🇪🇺, currently in my fourth year of Computer Science at [ANSB](https://www.ansb.pl/).\
 I tinker with everything under the tech umbrella: **game dev, VR, 3D modeling & printing, electronics, networking, hacking**, and plenty of software.
 
 ## 🛠 Working on
@@ -20,13 +20,13 @@ I tinker with everything under the tech umbrella: **game dev, VR, 3D modeling & 
 
 - 🎮 **[Demersus][demersus]**: a first-person atmospheric walking sim about alcohol addiction, made by two people (me and [Jakub](https://jakubklimczak.pl/))
   - 🥇 **Best Game Audio** at **ZTGK 2026**, plus a nomination for **SGF 2026** (Student Games Festival)
-  - 📈 Self-published and free on [Steam][demersus] / [itch.io][itch]: **10k+ library adds, 94% positive reviews, 200k impressions**
-- 🖨️ **[MakerWorld](https://www.erykdarnowski.pl/sm?mw)** 3D models with **3.2M+ impressions, 104k views, 1.8k prints**
+  - 📈 Self-published and free on [Steam][demersus] / [itch.io][itch]: **12k+ library adds, 95% positive reviews, 210k+ impressions**
+- 🖨️ **[MakerWorld](https://www.erykdarnowski.pl/sm?mw)** 3D models with **3.3M+ impressions, 110k+ views, 1.9k+ prints**
 - 🧩 Contributor to **[Return YouTube Dislike](https://github.com/Anarios/return-youtube-dislike)**, which has 5M+ users
 - 🎓 Academic scholarships throughout Technical School and University
 - 🚁 EU-certified drone pilot (A1 / A3)
 
-<sub>*Stats as of 09/11/2026*</sub>
+<sub>*Stats as of 21/11/2026*</sub>
 
 ## 💻 How I work
 
