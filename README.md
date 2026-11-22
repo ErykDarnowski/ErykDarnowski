@@ -1,7 +1,7 @@
 # Hi, I'm Eryk! 👋🏼
 
 I'm a **computer polyglot** 👨🏼‍💻 from Łódź 🇵🇱🇪🇺, currently in my fourth year of Computer Science at [ANSB](https://www.ansb.pl/).\
-I tinker with everything under the tech umbrella: **game dev, VR, 3D modeling & printing, electronics, networking, hacking**, and plenty of software.
+I tinker with everything under the tech umbrella: **game dev, VR, 3D modeling & printing, electronics repair, hacking & reverse engineering, networking, FPV drones**, and a bit of software.
 
 ## 🛠 Working on
 
@@ -24,7 +24,7 @@ I tinker with everything under the tech umbrella: **game dev, VR, 3D modeling & 
 - 🖨️ **[MakerWorld](https://www.erykdarnowski.pl/sm?mw)** 3D models with **3.3M+ impressions, 110k+ views, 1.9k+ prints**
 - 🧩 Contributor to **[Return YouTube Dislike](https://github.com/Anarios/return-youtube-dislike)**, which has 5M+ users
 - 🎓 Academic scholarships throughout Technical School and University
-- 🚁 EU-certified drone pilot (A1 / A3)
+- 🚁 EU-certified drone pilot (A1 / A3), flying both cinematic and FPV
 
 <sub>*Stats as of 21/11/2026*</sub>
 
@@ -118,9 +118,6 @@ I tinker with everything under the tech umbrella: **game dev, VR, 3D modeling & 
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=ErykDarnowski&theme=monokai&hide_border=true" height="150" alt="GitHub streak stats" />
-  <br>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=ErykDarnowski&style=flat-square&color=a6e22e" alt="profile views" />
 </div>
 
 [demersus]: https://store.steampowered.com/app/5224380/Demersus/
